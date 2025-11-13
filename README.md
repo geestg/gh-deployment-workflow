@@ -2,5 +2,5 @@
 
 Proyek ini menampilkan cara melakukan deployment otomatis ke GitHub Pages menggunakan GitHub Actions.
 
-Live Demo (GitHub Pages):
+## Live Demo
 https://geestg.github.io/gh-deployment-workflow/
